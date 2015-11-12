@@ -1,0 +1,5 @@
+<keymap version="1" name="Tyom" parent="Mac OS X 10.5+">
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
